@@ -1,0 +1,31 @@
+.header {
+  background-color: #fff;
+}
+
+.header__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 15px;
+}
+
+.header__log {
+  position: relative;
+}
+
+.header__version {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  border-radius: 4px;
+  background-color: #f60;
+
+  font-weight: 500;
+  font-size: 12px;
+  color: #fff;
+  padding: 1px 3px;
+}
+
+.header__exit {
+  cursor: pointer;
+}

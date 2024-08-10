@@ -1,0 +1,18 @@
+@import "./font/galdeano.css";
+
+@import "./global/global.css";
+
+
+@import "./components/header.css";
+@import "./components/menu.css";
+@import "./components/modal.css";
+@import "./components/footer.css";
+
+.wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+}
+

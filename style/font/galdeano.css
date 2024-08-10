@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/futura-pt');
+
+font-face {
+	font-family: 'Galdeano';
+	src: url('../fonts/galdeano_regular.eot');
+	src: url('../fonts/galdeano_regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/galdeano_regular.woff2') format('woff2'),
+		url('../fonts/galdeano_regular.woff') format('woff'),
+		url('../fonts/galdeano_regular.ttf') format('truetype'),
+		url('../fonts/galdeano_regular.svg#galdeano_regular') format('svg'); 
+}
